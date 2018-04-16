@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(to right, rgb(235, 92, 92) , #8cc8e6);
+    color: #2566df;
+    text-align: center;
+}
+#maps{
+    height:400px;
+}
+#books {
+    height: 400px;
+
+text-align: center;
+    align-content: center;
+    align-items: center;
+}
+#input{
+    margin-top: 30px;
+    width: 40%;
+    height: 30px;
+    color: #e21717;
+    background-color: white;
+    outline: none;
+    border: 2px solid #dd6060;
+}
+.top-text{
+    margin-top:140px;
+}
+button{
+    height: 30px;
+    background-color: #47cbec;
+color: white;
+border: 2px solid #5095da;
+}
+button:hover{
+    background-color: #e9e38d;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    padding: 20px;
+}
+img{
+    width:100%;
+    height:300px; 
+
+}
+#result{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.col-3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 300px;
+}
+
